@@ -1,6 +1,6 @@
 # Fuzzy Framework for Speed Estimation
 
-This is a framework that employs fuzzy control to estimate average speed based on the parameters road class, road slope, road surface and link length. The exact methodology is described in the paper "Multi-Parameter Estimation of Average Speed in Road Networks using Fuzzy Control" which is currently under review at the ISPRS International Journal of Geo-Information. 
+This is a framework that employs fuzzy control to estimate average speed based on the parameters road class, road slope, road surface and link length. The exact methodology is described in the paper "Multi-Parameter Estimation of Average Speed in Road Networks using Fuzzy Control" which is published in the ISPRS International Journal of Geo-Information. You can find the paper in the main folder under "Fuzzy_Guth_etal_2020.pdf".
 
 ### Prerequisites
 
